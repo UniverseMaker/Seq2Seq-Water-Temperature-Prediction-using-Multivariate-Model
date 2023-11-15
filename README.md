@@ -10,7 +10,7 @@ https://ictc.org/program_proceeding<br/>
 https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-17.pdf<br/>
 https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-18.pdf<br/>
 
-단, 다변량 데이터 처리 기법 미공개<br/>
+**단, 다변량 데이터 처리 기법 미공개**<br/>
 
 아래는 Feature 별 상관관계 분석표<br/>
 
