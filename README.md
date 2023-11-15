@@ -5,7 +5,7 @@ Forecast Sea Water Temperature using Seq2Seq (Encode-Decode) Model
 
 Multivariate Seq2Seq time series prediction model (Python, Tensorflow)<br/>
 
-논문<br/>
+논문 Paper<br/>
 https://ictc.org/program_proceeding<br/>
 https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-17.pdf<br/>
 https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-18.pdf<br/>
